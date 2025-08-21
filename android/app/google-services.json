@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "156431938742",
+    "project_id": "samvaad-98",
+    "storage_bucket": "samvaad-98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156431938742:android:2bef1768f17968a492e217",
+        "android_client_info": {
+          "package_name": "com.example.samvaad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4lCCoqUMcx-7SykbClGGMKfuwvyFmjgc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
